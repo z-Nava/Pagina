@@ -1,0 +1,54 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /plugins/
+Disallow: /node_modules/
+Disallow: /dist/
+Disallow: /build/
+Disallow: /logs/
+Disallow: /jspm_packages/
+Disallow: /tmp/
+Disallow: /swp/
+
+# Allow specific assets
+Allow: /assets/crown_logo_white.png
+Allow: /assets/crown_logo.png
+Allow: /assets/main-logo.png
+Allow: /assets/arroba-clara.png
+Allow: /assets/logotipo.png
+Allow: /assets/logo-complete.png
+Allow: /assets/join-us.PNG
+Allow: /assets/Austin_kids.jpg
+Allow: /assets/1-person.png
+Allow: /assets/hamburgers/Hamburger-1.png
+Allow: /assets/hamburgers/Hamburger-2.png
+Allow: /assets/hamburgers/Hamburger-3.png
+Allow: /assets/hamburgers/Hamburger-4.png
+Allow: /assets/hamburgers/Hamburger-6.png
+Allow: /assets/steer.jpg
+Allow: /assets/mollyds_loop-540p.mp4
+Allow: /assets/CPA_Blue_NWCityArenaLight_DronePhoto2022.jpg
+Allow: /assets/partner-darigold.png
+Allow: /assets/partner-CMIorchards.png
+Allow: /assets/partner-macDonaldMeat.png
+Allow: /assets/partner-UA.png
+Allow: /assets/partner-BEEF.png
+Allow: /assets/partner-DAIRY.png
+Allow: /assets/partner-honey.png
+Allow: /assets/partner-nurst.png
+Allow: /assets/follows/follow-4.png
+Allow: /assets/follows/follow-9.jpg
+Allow: /assets/follows/follow-5.png
+Allow: /assets/follows/follow-10.jpeg
+Allow: /assets/follows/follow-11.JPG
+Allow: /assets/follows/follow-12.jpeg
+Allow: /assets/follows/follow-15.jpeg
+Allow: /assets/follows/follow-14.jpeg
+Allow: /assets/follows/follow-22.png
+Allow: /assets/follows/follow-17.jpg
+Allow: /assets/follows/follow-21.png
+Allow: /assets/follows/follow-18.jpeg
+Allow: /assets/follows/follow-20.jpeg
+Allow: /assets/austin molly door.jpg
+Allow: /assets/logo_dpn.png
+
+Sitemap: https://www.yourwebsite.c
